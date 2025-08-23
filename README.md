@@ -35,7 +35,7 @@ This lab mirrors a real corporate setup where multiple departments or zones (e.g
 
 1. Creating Different Network for the Employee and Server Network. So Open “ **Virtual Network Editor As Administrator “.**
 
-<img width="897" height="774" alt="Screenshot 2025-08-15 230606" src="https://github.com/user-attachments/assets/3becdd78-4817-4ebd-81dd-3d2c4fcb921b" />
+<img width="500" height="500" alt="Screenshot 2025-08-15 230606" src="https://github.com/user-attachments/assets/3becdd78-4817-4ebd-81dd-3d2c4fcb921b" />
 
 
 1. Now keep the **NAT Network** as it is, if you want you can change the IP to a simple one like the below image.
