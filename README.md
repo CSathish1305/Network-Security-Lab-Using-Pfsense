@@ -20,7 +20,8 @@ This project is about designing and implementing a **network security lab enviro
 
 This lab mirrors a real corporate setup where multiple departments or zones (e.g., **Office LAN** and **Server LAN**) are kept separate for security but still managed through one firewall.
 
-![Pfsense_removed_page-0001.jpg](attachment:ae8132f3-f055-4b7f-81f8-f1058bff8a98:1103c8ca-5eee-4ef8-bb86-f13c5128d5ac.png)
+![Pfsense_removed_page-0001](https://github.com/user-attachments/assets/c7af4391-63dc-4c06-a4f1-5929e432bef0)
+
 
 ### Lab Setup
 
@@ -34,13 +35,15 @@ This lab mirrors a real corporate setup where multiple departments or zones (e.g
 
 1. Creating Different Network for the Employee and Server Network. So Open “ **Virtual Network Editor As Administrator “.**
 
-![Screenshot 2025-08-15 230606.png](attachment:5ad1b21e-9531-49b8-b6b3-d122ce27e4b7:Screenshot_2025-08-15_230606.png)
+<img width="897" height="774" alt="Screenshot 2025-08-15 230606" src="https://github.com/user-attachments/assets/3becdd78-4817-4ebd-81dd-3d2c4fcb921b" />
+
 
 1. Now keep the **NAT Network** as it is, if you want you can change the IP to a simple one like the below image.
 2. Then Create **Two Networks for LAN 1 and LAN 2** by clicking on the Add Network Button and Make sure to create them as **Host Only Type Network**.
 3. Then Click on **Apply** to apply the changes. 
 
-![image.png](attachment:77bb35ff-ad9e-4838-8f8b-800decb533af:image.png)
+<img width="886" height="770" alt="Screenshot 2025-08-15 231052" src="https://github.com/user-attachments/assets/f2e41927-a2db-40a3-9776-cd672ae4269b" />
+
 
 1. Now open **VMware** and Create a **New VM** for the **Pfsense.**
 
