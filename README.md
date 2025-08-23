@@ -43,32 +43,37 @@ This lab mirrors a real corporate setup where multiple departments or zones (e.g
 2. Then Create **Two Networks for LAN 1 and LAN 2** by clicking on the Add Network Button and Make sure to create them as **Host Only Type Network**.
 3. Then Click on **Apply** to apply the changes. 
 
-<img width="886" height="770" alt="Screenshot 2025-08-15 231052" src="https://github.com/user-attachments/assets/f2e41927-a2db-40a3-9776-cd672ae4269b" />
+<img width="500" height="500" alt="Screenshot 2025-08-15 231052" src="https://github.com/user-attachments/assets/f2e41927-a2db-40a3-9776-cd672ae4269b" />
 
 
 1. Now open **VMware** and Create a **New VM** for the **Pfsense.**
 
-![image.png](attachment:587efa10-2c37-4ead-a7ea-351b757e2cba:image.png)
+<img width="500" height="500" alt="Screenshot 2025-08-16 111904" src="https://github.com/user-attachments/assets/0ebdb67c-38b9-4969-aff6-9b51ab268432" />
+
 
 1. Now select the ISO image of Pfsense and click on **Next.**
 
-![image.png](attachment:87879b34-ac38-4365-9ef3-7865883f10be:image.png)
+<img width="500" height="500" alt="Screenshot 2025-08-16 111824" src="https://github.com/user-attachments/assets/98ff9eaa-4315-46b4-8891-8c68307b9d77" />
+
 
 1. **Name the VM** as you please and choose the **Location** for saving the file of the VM.
 
-![image.png](attachment:7a6f4ff0-b89c-497e-83a6-1426bdcf8d18:image.png)
+<img width="500" height="500" alt="Screenshot 2025-08-16 112005" src="https://github.com/user-attachments/assets/227002b4-808e-407a-be4e-650caca3547b" />
+
 
 1. **Allocate disk size** for the VM and click on **Next.**
 
-![image.png](attachment:246c714f-2d42-4329-95f9-1fefae5283f4:image.png)
+<img width="500" height="500" alt="Screenshot 2025-08-16 112118" src="https://github.com/user-attachments/assets/206a8068-ed30-43ba-a866-991edb0715dd" />
+
 
 1. Now click on **Customize Hardware** and Set the network adapter to “ **Custom : VMnet8 (NAT) “** and Click on **Advanced** and Generate **MAC Address for the Network Adapter of NAT.** Then click on ok to confirm.
 
-![image.png](attachment:7d24126a-880f-4b26-8fad-90fb8afa364e:image.png)
+<img width="500" height="500" alt="Screenshot 2025-08-16 112149" src="https://github.com/user-attachments/assets/9cf542a0-5cde-47ad-8e76-6e1ec67f1ac5" />
 
-![image.png](attachment:9cec0528-c173-4c42-8b8a-b8e01a9a8389:image.png)
+<img width="500" height="500" alt="Screenshot 2025-08-16 112248" src="https://github.com/user-attachments/assets/146c34b0-eb64-4b38-8429-1c0dfe0a72d1" />
 
-![image.png](attachment:aeae6f16-2766-4a50-ba2f-3528024b1d16:image.png)
+<img width="500" height="500" alt="Screenshot 2025-08-16 112318" src="https://github.com/user-attachments/assets/f9451519-1bdc-4365-84fa-c32ae220c622" />
+
 
 1. Now Click on **Add option** and select **Network Adapter to Add Another Two Network Adapter**. Now repeat the same process as before but the Network Type of the another two adapters are “ **Custom : VMnet1 (Host-only) & Custom : VMnet2 (Host-only) “** and Then Generate **MAC Address for the Both Adapters.**
 
