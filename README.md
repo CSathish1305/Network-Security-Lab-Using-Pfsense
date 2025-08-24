@@ -1,9 +1,9 @@
 # Network-Security-Lab-Using-Pfsense
-## What is network security?
+## What is Network Security?
 
 Network security encompasses all the steps taken to protect the integrity of a computer network and the data within it. Network security is important because it keeps sensitive data safe from cyber attacks and ensures the network is usable and trustworthy. Successful network security strategies employ multiple security solutions to protect users and organizations from malware and cyber attacks, like distributed denial of service.
 
-## Why is network security important?
+## Why is Network Security Important?
 
 Network security is critical because it prevents cybercriminals from gaining access to valuable data and sensitive information. When hackers get hold of such data, they can cause a variety of problems, including identity theft, stolen assets and reputational harm.
 
