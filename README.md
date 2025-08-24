@@ -70,95 +70,101 @@ This lab mirrors a real corporate setup where multiple departments or zones (e.g
 
 <img width="500" height="500" alt="Screenshot 2025-08-16 112149" src="https://github.com/user-attachments/assets/9cf542a0-5cde-47ad-8e76-6e1ec67f1ac5" />
 
-<img width="500" height="500" alt="Screenshot 2025-08-16 112248" src="https://github.com/user-attachments/assets/146c34b0-eb64-4b38-8429-1c0dfe0a72d1" />
+
+<img width="600" height="500" alt="Screenshot 2025-08-16 112248" src="https://github.com/user-attachments/assets/146c34b0-eb64-4b38-8429-1c0dfe0a72d1" />
+
 
 <img width="500" height="500" alt="Screenshot 2025-08-16 112318" src="https://github.com/user-attachments/assets/f9451519-1bdc-4365-84fa-c32ae220c622" />
 
 
 1. Now Click on **Add option** and select **Network Adapter to Add Another Two Network Adapter**. Now repeat the same process as before but the Network Type of the another two adapters are “ **Custom : VMnet1 (Host-only) & Custom : VMnet2 (Host-only) “** and Then Generate **MAC Address for the Both Adapters.**
 
-![image.png](attachment:3c445445-8bb4-4ab9-908f-dadfb901a9bd:image.png)
+<img width="500" height="500" alt="Screenshot 2025-08-16 112715" src="https://github.com/user-attachments/assets/0ed2a1b5-01df-49d0-968d-db56cc0637c8" />
 
-![image.png](attachment:ee5d9490-52b6-4b0a-893d-fee169b2520e:image.png)
 
-![image.png](attachment:66906b0a-3bd0-4b61-b32b-9ae8b2d1454b:image.png)
+<img width="600" height="500" alt="Screenshot 2025-08-16 113427" src="https://github.com/user-attachments/assets/bbb0ebac-91c7-4db5-a589-0e10f0cbd47f" />
+
+
+<img width="500" height="500" alt="Screenshot 2025-08-16 113519" src="https://github.com/user-attachments/assets/d84ef852-b0dc-4bbe-8cf6-fc5245d9a1d7" />
+
 
 1. Now click on **Close and Finish** the process and **Power On** the VM.
 
-![image.png](attachment:94e66f7a-60c8-47a3-b287-8ec7c68286cf:image.png)
+<img width="500" height="500" alt="Screenshot 2025-08-16 113620" src="https://github.com/user-attachments/assets/21dc2c71-d972-4da9-bce1-14a1c6a14eef" />
 
-![image.png](attachment:62688371-e356-4c91-bf2a-a1028ad9aa4f:image.png)
+<img width="600" height="500" alt="Screenshot 2025-08-15 225712" src="https://github.com/user-attachments/assets/c5c6de21-b02e-4d05-a7ab-1f1633066d1a" />
 
 1. Now , wait until the Booting process is over.
 
-![image.png](attachment:37c0cc10-f26d-4605-a19c-0a676c5228e8:image.png)
+<img width="500" height="500" alt="Screenshot 2025-08-15 225858" src="https://github.com/user-attachments/assets/86e51b96-df9a-41ab-9d72-0422871e7fe3" />
 
 1. Now click on **Accept** in the copyrights page and in the Next two Page Click On **Enter** button in your Keyboard to select **OK** option**.**
 
-![image.png](attachment:4b26d186-dbf9-4dd2-9922-001830a4cde7:image.png)
+<img width="748" height="425" alt="Screenshot 2025-08-15 225953" src="https://github.com/user-attachments/assets/80a11a91-314b-4725-8720-fd1c9a871152" />
 
-![image.png](attachment:340a00c4-d030-49bb-b46e-6a7177b25955:image.png)
 
-![image.png](attachment:189aaa9d-1124-4d49-8f99-e63f7aaed220:image.png)
+<img width="737" height="418" alt="Screenshot 2025-08-15 230029" src="https://github.com/user-attachments/assets/caadeb3e-3692-47e0-8c35-b098f684bee3" />
+
+
+<img width="720" height="397" alt="Screenshot 2025-08-16 113914" src="https://github.com/user-attachments/assets/7709219a-fad4-4785-9571-284ba497a53b" />
+
+
 
 1. Now Select the Adapter interface for **WAN** and click on **OK.**
 
-![image.png](attachment:cd8e127a-67c5-4703-9d21-98a218f47ba1:image.png)
+<img width="719" height="402" alt="Screenshot 2025-08-16 114010" src="https://github.com/user-attachments/assets/de89f8e6-6821-49ba-bdab-4b6ad3a26dd3" />
 
-1. 
+<img width="719" height="399" alt="Screenshot 2025-08-16 114422" src="https://github.com/user-attachments/assets/31f14ff3-0b33-41d4-b2f6-9378717c8909" />
 
-![image.png](attachment:78a66cd7-98bc-47a9-96f2-a4d3ee1a6513:image.png)
+<img width="711" height="401" alt="Screenshot 2025-08-16 130614" src="https://github.com/user-attachments/assets/b73bccaa-1c3b-4374-a09d-0a3b375b3fd0" />
 
-![image.png](attachment:51e5829d-c4a4-4a2a-87af-2235526aaf9d:image.png)
+<img width="720" height="405" alt="Screenshot 2025-08-16 133856" src="https://github.com/user-attachments/assets/a8c95822-c8ce-47e4-ba94-655b23e84a3c" />
 
-![image.png](attachment:ca6cc72d-db70-43ac-941c-1eaa6dedaf53:image.png)
+<img width="720" height="411" alt="Screenshot 2025-08-16 131147" src="https://github.com/user-attachments/assets/02ee01c1-b5cd-45ee-bf64-a45f03fea79a" />
 
-![image.png](attachment:719a1fae-f522-4ef8-9e89-7cb0f30c9078:image.png)
+<img width="723" height="382" alt="Screenshot 2025-08-16 133009" src="https://github.com/user-attachments/assets/61599809-3033-4a34-996c-ee6b081e340e" />
 
-![image.png](attachment:9986b2af-696b-498b-80ff-dc47ed2d16c8:image.png)
+<img width="722" height="395" alt="Screenshot 2025-08-16 141708" src="https://github.com/user-attachments/assets/9eedbf3c-ebe4-4981-8e35-c4b1359f8410" />
 
-![image.png](attachment:79abca88-cb4c-47d0-b90a-1ebae536668c:image.png)
+<img width="724" height="408" alt="Screenshot 2025-08-16 141921" src="https://github.com/user-attachments/assets/fcd9ff62-fd85-4491-87c4-ecbcdfc9374e" />
 
-![image.png](attachment:cae5f77b-a1f9-43fc-ab3f-35394a302cfe:image.png)
+<img width="708" height="405" alt="Screenshot 2025-08-16 142013" src="https://github.com/user-attachments/assets/20aa177e-0131-4c64-a35a-aa6eddff9872" />
 
-![image.png](attachment:91ccd8e8-aa2a-46e4-b986-b92320963790:image.png)
+<img width="720" height="405" alt="Screenshot 2025-08-16 142052" src="https://github.com/user-attachments/assets/5e504d89-ca0f-4534-8a66-fd6af50c59d5" />
 
-![image.png](attachment:c66cfa2f-6582-4a60-a911-c802a855fd22:image.png)
+<img width="715" height="400" alt="Screenshot 2025-08-16 142144" src="https://github.com/user-attachments/assets/e9bf715c-2e34-4e84-9e97-b5577c75689b" />
 
-![image.png](attachment:198841b1-53d5-4080-a889-be66f9153ca5:image.png)
+<img width="707" height="344" alt="Screenshot 2025-08-16 142216" src="https://github.com/user-attachments/assets/ddf739c1-f186-4e03-a272-a06f1a4835ae" />
 
-![image.png](attachment:d8d3d52c-b27d-4d49-b36b-7c301194df5d:image.png)
+<img width="718" height="378" alt="Screenshot 2025-08-16 142245" src="https://github.com/user-attachments/assets/2e9b98c5-d837-4dc4-a9bc-d1590efba928" />
 
-![image.png](attachment:85fc90b2-55ab-46ed-ab73-5afb6be0a5bf:image.png)
+<img width="707" height="395" alt="Screenshot 2025-08-16 142330" src="https://github.com/user-attachments/assets/488a385b-a1b4-4be8-ac09-cc335cec488f" />
 
-![image.png](attachment:0c8a5443-b935-4415-8eff-ae44dfa27c3a:image.png)
+<img width="705" height="384" alt="Screenshot 2025-08-16 143318" src="https://github.com/user-attachments/assets/4d0d45e4-f3cf-44ae-a4e5-c364dabf2b24" />
 
-![image.png](attachment:36caaf47-fa1c-41e8-8ebd-e8bc8f492158:image.png)
+<img width="718" height="297" alt="Screenshot 2025-08-16 143401" src="https://github.com/user-attachments/assets/2afebb41-8f56-41d2-8ca3-e9949af7df79" />
 
-![image.png](attachment:977bdc21-0671-4373-91c1-d1bb862fdc61:image.png)
+<img width="642" height="415" alt="Screenshot 2025-08-16 143643" src="https://github.com/user-attachments/assets/2727d4e6-57df-48d0-850d-48d4b70c885c" />
 
-![image.png](attachment:943a2120-0688-4cbf-a363-025917f1fe24:image.png)
+<img width="707" height="398" alt="Screenshot 2025-08-16 144546" src="https://github.com/user-attachments/assets/280e869f-4002-4f8d-a382-09b1ad379ace" />
 
-![image.png](attachment:b94c391e-b3ff-45a9-92d5-8a9543b27c17:image.png)
+<img width="646" height="415" alt="Screenshot 2025-08-16 144743" src="https://github.com/user-attachments/assets/dd73fb3c-64d1-4339-9e62-c9ee3fe29010" />
 
-![image.png](attachment:a67213af-17fe-45d8-8cba-8ab54ea0bd99:image.png)
+<img width="662" height="416" alt="Screenshot 2025-08-16 145036" src="https://github.com/user-attachments/assets/207dc8ef-6675-48ee-8eb1-39a14895acf4" />
 
-![image.png](attachment:29a688e7-a0f1-4603-9a16-683d48029229:image.png)
+<img width="724" height="415" alt="Screenshot 2025-08-16 145309" src="https://github.com/user-attachments/assets/4206926f-3dc2-4a77-81bf-dc4dd5689a23" />
 
-![image.png](attachment:bfd1e6bc-45f0-4d7e-81d3-3f01d54e1cbf:image.png)
+<img width="567" height="418" alt="Screenshot 2025-08-16 152105" src="https://github.com/user-attachments/assets/6af38a83-41b1-4fb3-a26b-b85a9d17a4c1" />
 
-![image.png](attachment:0238fac1-2158-42ba-80e2-0825c8d4ce38:image.png)
+<img width="726" height="419" alt="Screenshot 2025-08-17 133140" src="https://github.com/user-attachments/assets/7602f0e0-20b9-4ff9-aca6-97b744d18a90" />
 
-![image.png](attachment:8ee5aae9-0557-45ca-94e1-eda9cbfc5b5e:image.png)
+<img width="1862" height="849" alt="Screenshot 2025-08-18 223633" src="https://github.com/user-attachments/assets/1f6f3d38-29a7-4fc9-a013-e0df206f67bf" />
 
-![image.png](attachment:d0cdaa22-31a5-4a2f-990b-26cca0406f11:image.png)
+<img width="1866" height="918" alt="Screenshot 2025-08-18 223553" src="https://github.com/user-attachments/assets/b7986a58-7629-45b9-92bf-cd99c89aefaf" />
 
-![image.png](attachment:22b01fa3-9287-480b-a744-19f1c7af40cb:image.png)
+<img width="1810" height="944" alt="Screenshot 2025-08-18 223800" src="https://github.com/user-attachments/assets/d39e6476-43df-48b3-9a8f-c1af404033c2" />
 
-![image.png](attachment:1d825463-d978-4fe7-9ed2-15cad9561daa:image.png)
 
-![image.png](attachment:bca26f3e-3aa3-472a-9edb-b540dd96ee39:image.png)
 
-![image.png](attachment:4a62a957-7793-4d09-a930-3d98667a73b4:image.png)
 
-![image.png](attachment:add0c998-b579-4eb2-9d07-30f6aad2ae1f:image.png)
+
