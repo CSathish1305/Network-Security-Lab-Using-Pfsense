@@ -20,9 +20,7 @@ This project is about designing and implementing a **network security lab enviro
 
 This lab mirrors a real corporate setup where multiple departments or zones (e.g., **Office LAN** and **Server LAN**) are kept separate for security but still managed through one firewall.
 
-![Pfsense_removed_page-0001](https://github.com/user-attachments/assets/676e7715-934d-4d26-820b-292bd1cce8cd)
-
-
+![Pfsense_page-0001](https://github.com/user-attachments/assets/ecbfb889-c987-4a38-bdc3-72d8b5bff9ff)
 
 ### Lab Setup
 
