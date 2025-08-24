@@ -162,6 +162,18 @@ This lab mirrors a real corporate setup where multiple departments or zones (e.g
 
 <img width="1810" height="944" alt="Screenshot 2025-08-18 223800" src="https://github.com/user-attachments/assets/d39e6476-43df-48b3-9a8f-c1af404033c2" />
 
+<img width="1914" height="1001" alt="image" src="https://github.com/user-attachments/assets/a1791748-91d4-4d5d-a407-8e2688534f0a" />
+
+<img width="1904" height="839" alt="image" src="https://github.com/user-attachments/assets/ffeacb17-0ab1-43c1-9c37-abf563ce235b" />
+
+<img width="1919" height="995" alt="image" src="https://github.com/user-attachments/assets/66d7963a-fb2b-4914-a2a4-4c092ec5ce7d" />
+
+<img width="1919" height="839" alt="image" src="https://github.com/user-attachments/assets/86e48a09-f953-4f91-bca1-56c252ac156c" />
+
+
+
+
+
 
 
 
