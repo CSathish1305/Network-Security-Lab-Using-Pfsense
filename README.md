@@ -37,34 +37,34 @@ This lab mirrors a real corporate setup where multiple departments or zones (e.g
 <img width="500" height="500" alt="Screenshot 2025-08-15 230606" src="https://github.com/user-attachments/assets/3becdd78-4817-4ebd-81dd-3d2c4fcb921b" />
 
 
-1. Now keep the **NAT Network** as it is, if you want you can change the IP to a simple one like the below image.
-2. Then Create **Two Networks for LAN 1 and LAN 2** by clicking on the Add Network Button and Make sure to create them as **Host Only Type Network**.
-3. Then Click on **Apply** to apply the changes. 
+2. Now keep the **NAT Network** as it is, if you want you can change the IP to a simple one like the below image.
+3. Then Create **Two Networks for LAN 1 and LAN 2** by clicking on the Add Network Button and Make sure to create them as **Host Only Type Network**.
+4. Then Click on **Apply** to apply the changes. 
 
 <img width="500" height="500" alt="Screenshot 2025-08-15 231052" src="https://github.com/user-attachments/assets/f2e41927-a2db-40a3-9776-cd672ae4269b" />
 
 
-1. Now open **VMware** and Create a **New VM** for the **Pfsense.**
+5. Now open **VMware** and Create a **New VM** for the **Pfsense.**
 
 <img width="500" height="500" alt="Screenshot 2025-08-16 111904" src="https://github.com/user-attachments/assets/0ebdb67c-38b9-4969-aff6-9b51ab268432" />
 
 
-1. Now select the ISO image of Pfsense and click on **Next.**
+6. Now select the ISO image of Pfsense and click on **Next.**
 
 <img width="500" height="500" alt="Screenshot 2025-08-16 111824" src="https://github.com/user-attachments/assets/98ff9eaa-4315-46b4-8891-8c68307b9d77" />
 
 
-1. **Name the VM** as you please and choose the **Location** for saving the file of the VM.
+7. **Name the VM** as you please and choose the **Location** for saving the file of the VM.
 
 <img width="500" height="500" alt="Screenshot 2025-08-16 112005" src="https://github.com/user-attachments/assets/227002b4-808e-407a-be4e-650caca3547b" />
 
 
-1. **Allocate disk size** for the VM and click on **Next.**
+8. **Allocate disk size** for the VM and click on **Next.**
 
 <img width="500" height="500" alt="Screenshot 2025-08-16 112118" src="https://github.com/user-attachments/assets/206a8068-ed30-43ba-a866-991edb0715dd" />
 
 
-1. Now click on **Customize Hardware** and Set the network adapter to “ **Custom : VMnet8 (NAT) “** and Click on **Advanced** and Generate **MAC Address for the Network Adapter of NAT.** Then click on ok to confirm.
+9. Now click on **Customize Hardware** and Set the network adapter to “ **Custom : VMnet8 (NAT) “** and Click on **Advanced** and Generate **MAC Address for the Network Adapter of NAT.** Then click on ok to confirm.
 
 <img width="500" height="500" alt="Screenshot 2025-08-16 112149" src="https://github.com/user-attachments/assets/9cf542a0-5cde-47ad-8e76-6e1ec67f1ac5" />
 
@@ -75,7 +75,7 @@ This lab mirrors a real corporate setup where multiple departments or zones (e.g
 <img width="500" height="500" alt="Screenshot 2025-08-16 112318" src="https://github.com/user-attachments/assets/f9451519-1bdc-4365-84fa-c32ae220c622" />
 
 
-1. Now Click on **Add option** and select **Network Adapter to Add Another Two Network Adapter**. Now repeat the same process as before but the Network Type of the another two adapters are “ **Custom : VMnet1 (Host-only) & Custom : VMnet2 (Host-only) “** and Then Generate **MAC Address for the Both Adapters.**
+10. Now Click on **Add option** and select **Network Adapter to Add Another Two Network Adapter**. Now repeat the same process as before but the Network Type of the another two adapters are “ **Custom : VMnet1 (Host-only) & Custom : VMnet2 (Host-only) “** and Then Generate **MAC Address for the Both Adapters.**
 
 <img width="500" height="500" alt="Screenshot 2025-08-16 112715" src="https://github.com/user-attachments/assets/0ed2a1b5-01df-49d0-968d-db56cc0637c8" />
 
@@ -86,17 +86,17 @@ This lab mirrors a real corporate setup where multiple departments or zones (e.g
 <img width="500" height="500" alt="Screenshot 2025-08-16 113519" src="https://github.com/user-attachments/assets/d84ef852-b0dc-4bbe-8cf6-fc5245d9a1d7" />
 
 
-1. Now click on **Close and Finish** the process and **Power On** the VM.
+11. Now click on **Close and Finish** the process and **Power On** the VM.
 
 <img width="500" height="500" alt="Screenshot 2025-08-16 113620" src="https://github.com/user-attachments/assets/21dc2c71-d972-4da9-bce1-14a1c6a14eef" />
 
 <img width="600" height="500" alt="Screenshot 2025-08-15 225712" src="https://github.com/user-attachments/assets/c5c6de21-b02e-4d05-a7ab-1f1633066d1a" />
 
-1. Now , wait until the Booting process is over.
+12. Now , wait until the Booting process is over.
 
 <img width="500" height="500" alt="Screenshot 2025-08-15 225858" src="https://github.com/user-attachments/assets/86e51b96-df9a-41ab-9d72-0422871e7fe3" />
 
-1. Now click on **Accept** in the copyrights page and in the Next two Page Click On **Enter** button in your Keyboard to select **OK** option**.**
+13. Now click on **Accept** in the copyrights page and in the Next two Page Click On **Enter** button in your Keyboard to select **OK** option**.**
 
 <img width="748" height="425" alt="Screenshot 2025-08-15 225953" src="https://github.com/user-attachments/assets/80a11a91-314b-4725-8720-fd1c9a871152" />
 
@@ -108,10 +108,11 @@ This lab mirrors a real corporate setup where multiple departments or zones (e.g
 
 
 
-1. Now Select the Adapter interface for **WAN** and click on **OK.**
+14. Now Select the Adapter interface for **WAN** and click on **OK.**
 
 <img width="719" height="402" alt="Screenshot 2025-08-16 114010" src="https://github.com/user-attachments/assets/de89f8e6-6821-49ba-bdab-4b6ad3a26dd3" />
 
+15. Enable DHCP in the WAN and Click on 
 <img width="719" height="399" alt="Screenshot 2025-08-16 114422" src="https://github.com/user-attachments/assets/31f14ff3-0b33-41d4-b2f6-9378717c8909" />
 
 <img width="711" height="401" alt="Screenshot 2025-08-16 130614" src="https://github.com/user-attachments/assets/b73bccaa-1c3b-4374-a09d-0a3b375b3fd0" />
